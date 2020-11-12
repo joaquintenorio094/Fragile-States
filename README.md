@@ -1,5 +1,5 @@
-# Fragile-States
-Data Model of Fragile States
+
+# Data Model of Fragile States
 The project developed an exploratory data analysis report.
 The report contain data from several countries from the year 2015 to 2020.
 The data model contains an interactive heat map, a country dashboard and a comparative analysis between countries.
